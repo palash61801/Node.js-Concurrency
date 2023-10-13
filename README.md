@@ -1,4 +1,4 @@
-# PLS PROJECT CODE
+# Node.js Concurrency
 
 ## Image Resizer
 
